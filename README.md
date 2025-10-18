@@ -36,9 +36,9 @@
 | Platform | Description | Link |
 |-----------|--------------|------|
 | 🌍 **Main Website** | DML Tech official hub for tools & updates | [dml-tech.online](https://dml-tech.online) |
-| 🤖 **Zokou Session Site** | Secure session generator for Zokou bots | [dml-xmd.vercel.app](https://dml-xmd.vercel.app) |
+| 🤖 **Zokou Session Site** | Secure session generator for Zokou bots | [module.dml-tech.online](module.dml-tech.online) |
 | 💻 **Main Repo** | DML-MD WhatsApp Bot open-source repository | [DML-MD](https://github.com/MLILA17/DML-MD) |
-| 📬 **Contact Portal** | Collaboration, support & inquiries | [dml-contact.vercel.app](https://dml-contact.vercel.app) |
+| 📬 **Contact Portal** | Collaboration, support & inquiries | [contact.dml-tech.online](contact.dml-tech.online) |
 
 ---
 
@@ -60,10 +60,10 @@
 ### 🔹 [DML-MD WhatsApp Bot](https://github.com/MLILA17/DML-MD)  
 A powerful **multi-feature WhatsApp bot** offering automation, moderation, and community features.
 
-### 🔹 [Zokou Session Generator](https://dml-xmd.vercel.app)  
+### 🔹 [Zokou Session Generator](https://module.dml-tech.online)  
 A **secure, fast session generator** built to simplify Zokou bot setup.
 
-### 🔹 [DML Tech Website](https://dml-tech.online)  
+### 🔹 [Dml Tech Website](https://dml-tech.online)  
 The **official portal** for DML updates, tools, and open-source resources.
 
 ---
