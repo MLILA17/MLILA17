@@ -107,7 +107,7 @@ The **official portal** for DML updates, tools, and open-source resources.
 
 ## 🤝 Collaboration & Support  
 💬 Have a project idea, need help, or want to collaborate?  
-📩 Reach out via: [dml-contact.vercel.app](https://dml-contact.vercel.app)  
+📩 Reach out via: [contact.dml-tech.online](https://contact.dml-tech.online)  
 
 ---
 
