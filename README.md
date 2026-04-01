@@ -38,7 +38,7 @@
 | 🌍 **Main Website** | DML Tech official hub for tools & updates | [dml-tech.online](https://dml-tech.online) |
 | 🤖 **Zokou Session Site** | Secure session generator for Zokou bots | [module.dml-tech.online](https://module.dml-tech.online) |
 | 💻 **Main Repo** | DML-MD WhatsApp Bot open-source repository | [DML-MD](https://github.com/MLILA17/DML-MD) |
-| 📬 **Contact Portal** | Collaboration, support & inquiries | [contact.dml-tech.online](contact.dml-tech.online) |
+| 📬 **Contact Portal** | Collaboration, support & inquiries | [https://support.dml-tech.online](https://support.dml-tech.online) |
 
 ---
 
