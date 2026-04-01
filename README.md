@@ -72,7 +72,7 @@ I'm the founder of **[Dml Min_Bot](https://minbot.dml-tech.online)** engineering
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Skills
 
 <div align="center">
 
