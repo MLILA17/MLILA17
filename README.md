@@ -37,17 +37,17 @@
 
 > *"Turning ideas into AI-driven systems that connect the digital world."*
 
-I'm the founder of **[DML Tech](https://dml-tech.online)** — engineering intelligent automation, WhatsApp ecosystems, and developer tooling that empowers thousands of users globally.
+I'm the founder of **[Dml Min_Bot](https://minbot.dml-tech.online)** — engineering intelligent automation, WhatsApp ecosystems, and developer tooling that empowers thousands of users globally.
 
 ```yaml
-╔══════════════════════════════╗
-║  name     : MLILA17          ║
-║  role     : Founder @ DML    ║
-║  location : Tanzania 🇹🇿     ║
-║  focus    : Bots · APIs      ║
-║             Automation · UX  ║
-║  open to  : Collaboration ✅  ║
-╚══════════════════════════════╝
+╔══════════════════════════╗
+║  name     : MLILA17          
+║  role     : Founder @ DML    
+║  location : Tanzania 🇹🇿     
+║  focus    : Bots · APIs      
+║             Automation · UX  
+║  open to  : Collaboration ✅  
+╚═════════════════════════╝
 ```
 
 <br/>
@@ -173,10 +173,10 @@ Secure, high-speed **session generator** for Zokou bots. Sub-second response, mo
 
 <td width="33%" align="center">
 
-### 💳 DML Pay
-[![Soon](https://img.shields.io/badge/Coming_Soon-FFD700?style=for-the-badge&logo=cashapp&logoColor=black)](https://dml-tech.online)
+### 💳 Dml Pay
+[![Soon](https://img.shields.io/badge/Open_Now-FFD700?style=for-the-badge&logo=cashapp&logoColor=black)](https://lipia.dml-tech.online)
 
-Full-stack **payment platform** targeting Tanzania mobile money — Airtel, M-Pesa, Tigo Pesa & HaloPesa.
+Full-stack **payment platform** targeting Tanzania mobile money  Airtel, M-Pesa, Tigo Pesa & HaloPesa.
 
 ![Stack](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Stack](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -242,7 +242,7 @@ Full-stack **payment platform** targeting Tanzania mobile money — Airtel, M-Pe
 [![Main Website](https://img.shields.io/badge/🌍_Main_Website-dml--tech.online-6144f2?style=for-the-badge&logoColor=white)](https://dml-tech.online)
 [![Session Generator](https://img.shields.io/badge/🤖_Session_Generator-module.dml--tech.online-a78bfa?style=for-the-badge)](https://module.dml-tech.online)
 [![Support](https://img.shields.io/badge/💬_Support-support.dml--tech.online-00d084?style=for-the-badge)](https://support.dml-tech.online)
-[![Contact](https://img.shields.io/badge/📬_Contact-contact.dml--tech.online-FFD700?style=for-the-badge&logoColor=black)](https://contact.dml-tech.online)
+[![Contact](https://img.shields.io/badge/📬_Contact-contact.dml--tech.online-FFD700?style=for-the-badge&logoColor=black)](https://support.dml-tech.online)
 
 </div>
 
@@ -255,6 +255,6 @@ Full-stack **payment platform** targeting Tanzania mobile money — Airtel, M-Pe
 
 <br/>
 
-*Built with ❤️ by **[MLILA17](https://github.com/MLILA17)** · Powered by **[DML Tech](https://dml-tech.online)***
+*Built with ❤️ by **[MLILA17](https://github.com/MLILA17)** · Powered by **[Dml Tech](https://minbot.dml-tech.online)***
 
 </div>
