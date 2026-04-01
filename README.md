@@ -107,7 +107,7 @@ The **official portal** for DML updates, tools, and open-source resources.
 
 ## 🤝 Collaboration & Support  
 💬 Have a project idea, need help, or want to collaborate?  
-📩 Reach out via: [contact.dml-tech.online](https://contact.dml-tech.online)  
+📩 Reach out via: [https://support.dml-tech.online](https://support.dml-tech.online)  
 
 ---
 
