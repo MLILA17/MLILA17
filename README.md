@@ -40,14 +40,14 @@
 I'm the founder of **[Dml Min_Bot](https://minbot.dml-tech.online)** engineering intelligent automation, WhatsApp ecosystems, and developer tooling that empowers thousands of users globally.
 
 ```yaml
-╔═══════════════════╗
+╔═══════════════╗
 ║  name     : MLILA17          
 ║  role     : Founder @ DML    
 ║  location : Tanzania 🇹🇿     
 ║  focus    : Bots · APIs      
 ║             Automation · UX  
 ║  open to  : Collaboration ✅  
-╚══════════════════╝
+╚══════════════╝
 ```
 
 <br/>
